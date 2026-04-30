@@ -1,0 +1,11 @@
+#Données
+archive/
+
+# virtual environnement
+.venv/
+
+# python
+__pycache__/
+
+# Jupyter 
+.ipynb_checkpoints/

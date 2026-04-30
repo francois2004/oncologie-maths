@@ -1,0 +1,9 @@
+numpy >= 1.24
+nibabel >= 5.1
+matplotlib >= 3.7
+
+jupyterlab>=4.0
+ipykernel>=6.0
+
+plotly
+scikit-image
